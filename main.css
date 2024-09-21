@@ -367,19 +367,19 @@ header{
       
         background-size: cover;
         height: 100vh;
-        width: 102vh;
+        width: 109vh;
         
     } 
     .footerend{
         height: 100vh;
-        width: 102vh;
+        width: 109vh;
     }
     .review{
-        width: 102vh;
+        width: 109vh;
     }
     .footerinfo{
         height: 100vh;
-        width: 102vh;
+        width: 109vh;
 
     }
     .final{
@@ -392,7 +392,7 @@ header{
         text-align: center;
         gap: 100px;
         font-size: x-large;
-        width: 102vh;}
+        width: 109vh;}
 
     .imginfo img{
        width: 300px;
@@ -427,7 +427,7 @@ header{
       
         background-size: cover;
         height: 100vh;
-        width: 97vh;
+        width: 109vh;
         
     } 
   .datainfo h2{
