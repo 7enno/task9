@@ -190,6 +190,7 @@ a{
     background-size: cover;
     background-attachment: fixed;
     position: relative;
+    width: 150%;
 
 }
 .dishes{
