@@ -486,3 +486,18 @@ header{
   
 
 }
+@media (max-width:321){
+    .image{
+        background-image: url(end.jpg);
+        height: 50vh;
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        position: relative;
+        width: 150%;}
+    
+        .dishes{
+            width: 150%;
+        }
+}
