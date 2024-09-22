@@ -68,7 +68,7 @@ header{
 .head img{
     width: 400px;
     height: 200px;
-    justify-content: ;
+    
 
 }
 .buttons{
@@ -311,7 +311,7 @@ header{
     height:auto;
 }
 .head img{
-    width: 20%
+    width: 20%;
     height: 10%;
 }
 
@@ -482,22 +482,19 @@ header{
     background-attachment: fixed;
     position: relative;
     width: 150%;}
-
+   
   
 
 }
-@media (max-width:321){
-    .image{
-        background-image: url(end.jpg);
-        height: 50vh;
-        background-position: top;
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-attachment: fixed;
-        position: relative;
-        width: 150%;}
+@media (max-width:325px){
     
-        .dishes{
-            width: 150%;
-        }
+    .image{
+        width: 320px;
+
+        
+    }
+  
 }
+.dishes .container .dishestypes .dish{
+    background-color: red;
+ } 
